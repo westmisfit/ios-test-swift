@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "57B8BAF41B31819500FDFB9B"
                BuildableName = "ios-testapp.app"
-               BlueprintName = "ios-testapp"
-               ReferencedContainer = "container:ios-testapp.xcodeproj">
+               BlueprintName = "testapp"
+               ReferencedContainer = "container:testapp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -30,8 +30,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "57B8BB091B31819600FDFB9B"
                BuildableName = "ios-testappTests.xctest"
-               BlueprintName = "ios-testappTests"
-               ReferencedContainer = "container:ios-testapp.xcodeproj">
+               BlueprintName = "testappTests"
+               ReferencedContainer = "container:testapp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -48,8 +48,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "57B8BB091B31819600FDFB9B"
                BuildableName = "ios-testappTests.xctest"
-               BlueprintName = "ios-testappTests"
-               ReferencedContainer = "container:ios-testapp.xcodeproj">
+               BlueprintName = "testappTests"
+               ReferencedContainer = "container:testapp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -58,8 +58,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "57B8BAF41B31819500FDFB9B"
             BuildableName = "ios-testapp.app"
-            BlueprintName = "ios-testapp"
-            ReferencedContainer = "container:ios-testapp.xcodeproj">
+            BlueprintName = "testapp"
+            ReferencedContainer = "container:testapp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -78,8 +78,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "57B8BAF41B31819500FDFB9B"
             BuildableName = "ios-testapp.app"
-            BlueprintName = "ios-testapp"
-            ReferencedContainer = "container:ios-testapp.xcodeproj">
+            BlueprintName = "testapp"
+            ReferencedContainer = "container:testapp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -97,8 +97,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "57B8BAF41B31819500FDFB9B"
             BuildableName = "ios-testapp.app"
-            BlueprintName = "ios-testapp"
-            ReferencedContainer = "container:ios-testapp.xcodeproj">
+            BlueprintName = "testapp"
+            ReferencedContainer = "container:testapp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
